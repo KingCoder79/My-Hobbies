@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: deepskyblue;
+}
+div{
+    margin-top: 15px
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+}
+img{
+    background-color: deepskyblue;
+}
+p{
+ background-color: deepskyblue;
+}
